@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(56, 62, 89);
+}
+
+div {
+    font-family:fantasy;
+    background-color: rgb(56, 62, 89);
+    color: white;
+    font-size: 32px;
+    padding: 5px;
+    border: solid;
+    color: white;
+ }
+
+ nav {
+    background-color: rgb(56, 62, 89);
+    padding: 5px;
+    display: flex;
+    justify-content:space-between;
+ }
+
+ img {
+    width: 60px;
+ }
+ 
+ .items:hover {
+    background-color: gainsboro;
+    opacity: 0.5;
+ }
+
+ a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+ }
+ 
+nav2{
+    display: flex;
+    justify-content: space-around;
+} 
+
+nav3{
+    background-color: rgb(56, 62, 89);
+    padding: 5px;
+    display: flex;
+    justify-content:first baseline;
+} 
+
+nav4{
+    background-color: rgb(56, 62, 89);
+    padding: 5px;
+    display: flex;
+    justify-content:first baseline;  
+}
+
+p{
+    font-family:fantasy;
+    background-color: rgb(56, 62, 89);
+    color: black;
+    font-size: 32px;
+    padding: 5px;
+    border: solid;
+    color: black;
+}
