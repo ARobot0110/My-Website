@@ -20,7 +20,7 @@ div {
  }
 
  img {
-    width: 60px;
+    width: 160px;
  }
  
  .items:hover {
@@ -51,6 +51,13 @@ nav4{
     padding: 5px;
     display: flex;
     justify-content:first baseline;  
+}
+
+nav5{
+    background-color: rgb(56, 62, 89);
+    padding: 5px;
+    display: flex;
+    justify-content:first baseline;
 }
 
 p{
